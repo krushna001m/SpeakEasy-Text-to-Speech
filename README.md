@@ -63,13 +63,12 @@ Make sure you have the following installed:
    ```bash
    git clone https://github.com/krushna001m/SpeakEasy-Text-to-Speech.git
    cd SpeakEasy-Text-to-Speech
-```
+   ```
 
 2. **Install dependencies:**
 
    ```bash
    pnpm install
-
    ```
 
 3. **Run the development server:**
