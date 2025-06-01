@@ -69,6 +69,7 @@ Make sure you have the following installed:
 
    ```bash
    pnpm install
+
    ```
 
 3. **Run the development server:**
