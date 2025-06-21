@@ -1,5 +1,5 @@
 
-# 🔊 SpeakEasy - Text to Speech Web 
+# 🔊 SpeakEasy - Text to Speech Web App
 
 A sleek, multi-voice, browser-based Text-to-Speech (TTS) web application built using **Next.js (App Router)**, **TypeScript**, and **Tailwind CSS**. SpeakEasy allows users to input text, choose from available voices, adjust pitch/rate, and control playback — all within a responsive, accessible UI.
 
